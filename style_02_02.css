@@ -1,0 +1,92 @@
+body {
+    background-color: #f6baba;
+    mix-blend-mode: darken;
+}
+ 
+header h1 {
+    margin-top: 10%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+ 
+table {
+    margin-top: 2%;
+    width: max-content;
+    border: 3px solid rgb(70, 11, 11);
+    height: 70px;
+    margin-left: 20%;
+    padding: 50px;
+    
+}
+ 
+td {
+    text-align: center;
+    border: 1px solid black;
+}
+
+#piątek {
+    color: black;
+    background-color: #34f4ed;
+    font-family: 'Times';
+}
+
+#sobota {
+    color: black;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#niedziela {
+    color: black;
+    background-color: beige;
+    font-family: 'Times';
+    font-weight: 1000;
+}
+
+#prz1 {
+    color: purple;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#prz2 {
+    color: darkorange;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#prz3 {
+    color: green;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#prz4 {
+    color: red;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#prz5 {
+    color: blue;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#prz6 {
+    color: darkslategray;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#prz7 {
+    color: brown;
+    font-family: 'Times';
+    font-weight: 800;
+}
+
+#img.a {
+    vertical-align: baseline;
+  }

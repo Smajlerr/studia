@@ -1,0 +1,46 @@
+/* Julian Kobus */
+body {
+  background-color: rgb(55, 177, 217);
+}
+
+.myDiv {
+    border: 5px outset blue;
+    background-color: lightblue;    
+    text-align: left;
+    width: 500px;
+  }
+
+div {
+    border: 5px outset green;
+    background-color: lightblue;
+    width: 200px;
+}
+
+#span   {
+    color: #ec0b09;
+}
+
+select  {
+    color: rgb(120, 85, 151);
+    background-color: aquamarine;
+    border: 2px outset rgb(117, 31, 31);
+    margin: 0px;
+    padding: 3px;
+    width: auto;
+    height: 30px;
+}
+
+button  {
+    color: blanchedalmond;
+    background-color: darkslategray;
+    border: 3px outset red;
+    margin: 0px;
+    padding: 3px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+}
+
+h5  {
+    margin: 0;
+}
